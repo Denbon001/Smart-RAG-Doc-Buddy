@@ -17,6 +17,7 @@ An advanced, local Retrieval-Augmented Generation (RAG) system built to process 
 - **Embeddings:** HuggingFace Embeddings
 - **LLM Workflow:** Local LLM Pipeline
 - **Frontend / UI:** Python (Streamlit / App framework)
+- **Language Model:** Tinyllama (Ollama)
 
 ---
 
